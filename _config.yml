@@ -2,7 +2,7 @@
 
 name: Chalk
 paginate: 25
-url: nhan.tk # add your site url (format: https://example.com/)
+url: nhan.tk/chalk # add your site url (format: https://example.com/)
 blog_theme: light # Or use dark
 
 # Optional settings
